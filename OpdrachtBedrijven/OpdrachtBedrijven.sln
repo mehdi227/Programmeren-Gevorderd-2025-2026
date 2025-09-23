@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpdrachtBedrijven CL", "OpdrachtBedrijven CL\OpdrachtBedrijven CL.csproj", "{086D7DEB-5888-4B54-8353-D578B50B9EAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTestDomein", "ConsoleAppTestDomein\ConsoleAppTestDomein.csproj", "{5B411134-6302-4CEB-82BD-779F536D50FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086D7DEB-5888-4B54-8353-D578B50B9EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086D7DEB-5888-4B54-8353-D578B50B9EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086D7DEB-5888-4B54-8353-D578B50B9EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086D7DEB-5888-4B54-8353-D578B50B9EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B411134-6302-4CEB-82BD-779F536D50FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B411134-6302-4CEB-82BD-779F536D50FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B411134-6302-4CEB-82BD-779F536D50FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B411134-6302-4CEB-82BD-779F536D50FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D881E1A-C7E6-4BA1-8C64-E6BE8B94550C}
+	EndGlobalSection
+EndGlobal

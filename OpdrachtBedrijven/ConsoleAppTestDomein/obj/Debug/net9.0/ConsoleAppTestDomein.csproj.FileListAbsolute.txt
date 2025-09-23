@@ -1,0 +1,18 @@
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.AssemblyInfoInputs.cache
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.AssemblyInfo.cs
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\ConsoleAppTestDomein.exe
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\ConsoleAppTestDomein.deps.json
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\ConsoleAppTestDomein.runtimeconfig.json
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\ConsoleAppTestDomein.dll
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\ConsoleAppTestDomein.pdb
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\OpdrachtBedrijven CL.dll
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\OpdrachtBedrijven CL.pdb
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.csproj.AssemblyReference.cache
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleA.C082EAD1.Up2Date
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.dll
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\refint\ConsoleAppTestDomein.dll
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.pdb
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.genruntimeconfig.cache
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ref\ConsoleAppTestDomein.dll

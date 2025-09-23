@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|c:\\users\\mehdi\\source\\repos\\opdrachtbedrijven\\opdrachtbedrijven cl\\bl\\bedrijf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|solutionrelative:opdrachtbedrijven cl\\bl\\bedrijf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|c:\\users\\mehdi\\source\\repos\\opdrachtbedrijven\\opdrachtbedrijven cl\\bl\\personeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|solutionrelative:opdrachtbedrijven cl\\bl\\personeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B411134-6302-4CEB-82BD-779F536D50FA}|ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj|c:\\users\\mehdi\\source\\repos\\opdrachtbedrijven\\consoleapptestdomein\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B411134-6302-4CEB-82BD-779F536D50FA}|ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj|solutionrelative:consoleapptestdomein\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|c:\\users\\mehdi\\source\\repos\\opdrachtbedrijven\\opdrachtbedrijven cl\\bl\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|solutionrelative:opdrachtbedrijven cl\\bl\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|c:\\users\\mehdi\\source\\repos\\opdrachtbedrijven\\opdrachtbedrijven cl\\exceptions\\bedrijfexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|solutionrelative:opdrachtbedrijven cl\\exceptions\\bedrijfexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\ConsoleAppTestDomein\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppTestDomein\\Program.cs",
+              "ToolTip": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\ConsoleAppTestDomein\\Program.cs",
+              "RelativeToolTip": "ConsoleAppTestDomein\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:16:53.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BedrijfException.cs",
+              "DocumentMoniker": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\Exceptions\\BedrijfException.cs",
+              "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\Exceptions\\BedrijfException.cs",
+              "ToolTip": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\Exceptions\\BedrijfException.cs",
+              "RelativeToolTip": "OpdrachtBedrijven CL\\Exceptions\\BedrijfException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:06:58.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adres.cs",
+              "DocumentMoniker": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Adres.cs",
+              "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\BL\\Adres.cs",
+              "ToolTip": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Adres.cs",
+              "RelativeToolTip": "OpdrachtBedrijven CL\\BL\\Adres.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:34:03.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personeel.cs",
+              "DocumentMoniker": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Personeel.cs",
+              "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\BL\\Personeel.cs",
+              "ToolTip": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Personeel.cs",
+              "RelativeToolTip": "OpdrachtBedrijven CL\\BL\\Personeel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:33:27.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bedrijf.cs",
+              "DocumentMoniker": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
+              "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
+              "ToolTip": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
+              "RelativeToolTip": "OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:47:54.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

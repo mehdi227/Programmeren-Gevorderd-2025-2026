@@ -1,0 +1,11 @@
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.AssemblyInfoInputs.cache
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.AssemblyInfo.cs
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\bin\Debug\net9.0\OpdrachtBedrijven CL.deps.json
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\bin\Debug\net9.0\OpdrachtBedrijven CL.dll
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\bin\Debug\net9.0\OpdrachtBedrijven CL.pdb
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.dll
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\refint\OpdrachtBedrijven CL.dll
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.pdb
+C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\ref\OpdrachtBedrijven CL.dll
