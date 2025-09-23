@@ -8,8 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DL\" />
-    <Folder Include="UL\" />
+    <Compile Remove="DL\**" />
+    <Compile Remove="UL\**" />
+    <EmbeddedResource Remove="DL\**" />
+    <EmbeddedResource Remove="UL\**" />
+    <None Remove="DL\**" />
+    <None Remove="UL\**" />
   </ItemGroup>
 
 </Project>
