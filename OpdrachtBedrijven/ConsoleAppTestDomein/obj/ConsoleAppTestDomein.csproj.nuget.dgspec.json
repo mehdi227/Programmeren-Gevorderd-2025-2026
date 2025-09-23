@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj": {}
+    "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj": {
+    "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj",
+        "projectUniqueName": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj",
         "projectName": "ConsoleAppTestDomein",
-        "projectPath": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj",
+        "projectPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\ConsoleAppTestDomein\\obj\\",
+        "outputPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj": {
-                "projectPath": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj"
+              "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj": {
+                "projectPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj"
               }
             }
           }
@@ -48,7 +48,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -69,18 +69,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj": {
+    "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj",
+        "projectUniqueName": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj",
         "projectName": "OpdrachtBedrijven CL",
-        "projectPath": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj",
+        "projectPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehdi\\source\\repos\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\obj\\",
+        "outputPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,7 +113,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
