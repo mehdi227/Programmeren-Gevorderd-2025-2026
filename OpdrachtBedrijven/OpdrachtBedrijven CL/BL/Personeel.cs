@@ -39,6 +39,17 @@ namespace OpdrachtBedrijven_CL.BL
             }
         }
         private Adres _adres;
+
+        public Personeel(int id, string voornaam, string achternaam, string email, DateTime geboortedatum, Adres adres)
+        {
+            Id = id;
+            Voornaam = voornaam;
+            Achternaam = achternaam;
+            Email = email;
+            Geboortedatum = geboortedatum;
+            Adres = adres;
+        }
+
         public Adres Adres
         {
             get { return _adres; }

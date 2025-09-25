@@ -9,3 +9,15 @@ C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net
 C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\refint\OpdrachtBedrijven CL.dll
 C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.pdb
 C:\Users\mehdi\source\repos\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\ref\OpdrachtBedrijven CL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\bin\Debug\net9.0\OpdrachtBedrijven CL.deps.json
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\bin\Debug\net9.0\OpdrachtBedrijven CL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\bin\Debug\net9.0\OpdrachtBedrijven CL.pdb
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.AssemblyInfoInputs.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.AssemblyInfo.cs
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.csproj.CoreCompileInputs.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.sourcelink.json
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\refint\OpdrachtBedrijven CL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\OpdrachtBedrijven CL.pdb
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\OpdrachtBedrijven CL\obj\Debug\net9.0\ref\OpdrachtBedrijven CL.dll

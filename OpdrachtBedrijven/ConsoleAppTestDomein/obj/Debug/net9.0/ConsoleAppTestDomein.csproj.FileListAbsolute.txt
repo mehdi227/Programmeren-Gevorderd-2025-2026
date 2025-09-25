@@ -16,3 +16,22 @@ C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net
 C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.pdb
 C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.genruntimeconfig.cache
 C:\Users\mehdi\source\repos\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ref\ConsoleAppTestDomein.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\ConsoleAppTestDomein.exe
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\ConsoleAppTestDomein.deps.json
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\ConsoleAppTestDomein.runtimeconfig.json
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\ConsoleAppTestDomein.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\ConsoleAppTestDomein.pdb
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\OpdrachtBedrijven CL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\bin\Debug\net9.0\OpdrachtBedrijven CL.pdb
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.csproj.AssemblyReference.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.AssemblyInfoInputs.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.AssemblyInfo.cs
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.csproj.CoreCompileInputs.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.sourcelink.json
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleA.C082EAD1.Up2Date
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\refint\ConsoleAppTestDomein.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.pdb
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.genruntimeconfig.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\OpdrachtBedrijven\ConsoleAppTestDomein\obj\Debug\net9.0\ref\ConsoleAppTestDomein.dll
