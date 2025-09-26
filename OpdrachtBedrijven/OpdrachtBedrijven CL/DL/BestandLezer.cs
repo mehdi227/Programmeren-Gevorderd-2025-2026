@@ -11,11 +11,11 @@ namespace OpdrachtBedrijven_CL.DL
 {
     public class BestandLezer
     {
-        public BestandLezer() {
+        public BestandLezer(string padNaarTeLezenBestand,string padNaarErrorLog) {
             try
             {
-                using (StreamWriter sw = new StreamWriter("D:\\data\\OpdrachtBedrijven\\errorLog.txt"))
-                using (StreamReader sr = new StreamReader("D:\\data\\OpdrachtBedrijven\\bedrijvenbelgie_18092025.txt"))
+                using (StreamWriter sw = new StreamWriter(padNaarErrorLog))
+                using (StreamReader sr = new StreamReader(padNaarTeLezenBestand))
                 {
                     string line;
                     while ((line = sr.ReadLine()) != null)
@@ -43,7 +43,6 @@ namespace OpdrachtBedrijven_CL.DL
                             Bedrijf bedrijf = new Bedrijf(b_naam, b_industrie, b_sector, b_hoofdkwartier, b_oprichtjaar, b_extraInfo);
                             Adres p_adres = new Adres(a_woonplaats,a_straatnaam,a_huisnummer,a_postcode);
                             Personeel personeel = new Personeel(p_id, p_voornaam, p_achternaam,p_email,p_Geboortedatum,p_adres);
-
                         }
                         catch (Exception ex)
                         {
