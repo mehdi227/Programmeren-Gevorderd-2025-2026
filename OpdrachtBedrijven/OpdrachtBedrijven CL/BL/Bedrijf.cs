@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 using OpdrachtBedrijven_CL.Exceptions;
@@ -8,12 +9,6 @@ using OpdrachtBedrijven_CL.Exceptions;
 namespace OpdrachtBedrijven_CL.BL
 {
     public class Bedrijf {
-        public string Naam { get; set; }
-        public string Industry { get; set; }
-        public string Sector { get; set; }
-        public string Hoofdkwartier { get; set; }
-        private string _oprichtjaar;
-
         public Bedrijf(string naam, string industry, string sector, string hoofdkwartier, string oprichtjaar, string extrainfo)
         {
             Naam = naam;
@@ -23,11 +18,42 @@ namespace OpdrachtBedrijven_CL.BL
             Oprichtjaar = oprichtjaar;
             Extrainfo = extrainfo;
         }
-
-        public Bedrijf()
-        {
+        private string _naam;
+        public string Naam {
+            get { return _naam; }
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value)) _naam = value;
+                else throw new BedrijfException("naam invalid");
+            }
         }
-
+        private string _industry;
+        public string Industry {
+            get { return _industry; }
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value)) _industry = value;
+                else throw new BedrijfException("industry invalid");
+            }
+        }
+        private string _sector;
+        public string Sector {
+            get { return _sector; }
+            set{
+                if (!string.IsNullOrWhiteSpace(value)) _sector = value;
+                else throw new BedrijfException("sector invalid");
+            }
+        }
+        private string _hoofdkwartier;
+        public string Hoofdkwartier {
+            get { return _hoofdkwartier; }
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value)) _hoofdkwartier = value;
+                else throw new BedrijfException("hoofdkwartier invalid");
+            }
+        }
+        private string _oprichtjaar;
         public string Oprichtjaar {
             get { return _oprichtjaar; }
             set
@@ -46,7 +72,5 @@ namespace OpdrachtBedrijven_CL.BL
                 if (value.Count() != value.Distinct().Count()) throw new BedrijfException("mag geen dubbele personeelsleden bevatten");
             }
         }
-        //TODO minstens 1 personeel
-        //TODO check geen dubbels
     }
 }
