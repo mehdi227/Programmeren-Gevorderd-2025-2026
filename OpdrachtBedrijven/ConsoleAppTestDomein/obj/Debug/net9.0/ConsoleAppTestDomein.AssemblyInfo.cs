@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppTestDomein")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e3ea170934a0bec5005885b0b0f67652420d8ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13e56123a8aa695fff503210c08b0eaa2edab3de")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppTestDomein")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppTestDomein")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
