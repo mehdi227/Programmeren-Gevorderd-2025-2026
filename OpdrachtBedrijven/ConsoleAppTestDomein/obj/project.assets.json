@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj",
+      "projectUniqueName": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj",
       "projectName": "ConsoleAppTestDomein",
-      "projectPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj",
+      "projectPath": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj",
       "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-      "outputPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\obj\\",
+      "outputPath": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj": {
-              "projectPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj"
+            "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj": {
+              "projectPath": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj"
             }
           }
         }
