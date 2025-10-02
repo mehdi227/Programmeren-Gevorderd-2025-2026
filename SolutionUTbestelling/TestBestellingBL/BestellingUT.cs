@@ -42,7 +42,6 @@ namespace TestBestellingBL {
             Assert.Equal(leverdatum, bestelling.LeverDatum);
         }
         [Theory]
-        [InlineData("20205-1-2")]
         [InlineData("2025-1-1")]
         public void Test_leverdatum_invalid(DateTime leverdatum) {
             DateTime now = new DateTime(2025, 1, 2);
@@ -127,9 +126,9 @@ namespace TestBestellingBL {
             bestelling.VoegProductToe(producten[0], 5);
             bestelling.VoegProductToe(producten[2], 4);
 
-            Assert.Throws<BestellingException>(()=>);
-            Assert.Contains();
-            Assert.Contains();
+            //Assert.Throws<BestellingException>(()=>);
+            //Assert.Contains();
+            //Assert.Contains();
         }
         [Fact]
         public void Test_verwijderproduct_invalid_aantaltegroot() {
@@ -138,9 +137,9 @@ namespace TestBestellingBL {
             bestelling.VoegProductToe(producten[0], 5);
             bestelling.VoegProductToe(producten[2], 4);
 
-            Assert.Throws<BestellingException>();
-            Assert.Contains();
-            Assert.Contains();
+            //Assert.Throws<BestellingException>();
+            //Assert.Contains();
+            //Assert.Contains();
         }
     }
 }

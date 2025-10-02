@@ -9,3 +9,15 @@ C:\Users\mehdi\source\repos\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\B
 C:\Users\mehdi\source\repos\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\refint\BestellingBL.dll
 C:\Users\mehdi\source\repos\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\BestellingBL.pdb
 C:\Users\mehdi\source\repos\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\ref\BestellingBL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\bin\Debug\net9.0\BestellingBL.deps.json
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\bin\Debug\net9.0\BestellingBL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\bin\Debug\net9.0\BestellingBL.pdb
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\BestellingBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\BestellingBL.AssemblyInfoInputs.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\BestellingBL.AssemblyInfo.cs
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\BestellingBL.csproj.CoreCompileInputs.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\BestellingBL.sourcelink.json
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\BestellingBL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\refint\BestellingBL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\BestellingBL.pdb
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\BestellingBL\obj\Debug\net9.0\ref\BestellingBL.dll

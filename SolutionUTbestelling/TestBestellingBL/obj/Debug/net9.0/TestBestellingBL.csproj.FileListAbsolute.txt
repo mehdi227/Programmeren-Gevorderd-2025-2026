@@ -100,3 +100,14 @@ C:\Users\mehdi\source\repos\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9
 C:\Users\mehdi\source\repos\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\TestBestellingBL.pdb
 C:\Users\mehdi\source\repos\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\TestBestellingBL.genruntimeconfig.cache
 C:\Users\mehdi\source\repos\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\ref\TestBestellingBL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TestBestellingBL
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\bin\Debug\net9.0\CoverletSourceRootsMapping_TestBestellingBL
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\TestBestellingBL.csproj.AssemblyReference.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\TestBestellingBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\TestBestellingBL.AssemblyInfoInputs.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\TestBestellingBL.AssemblyInfo.cs
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\TestBestellingBL.csproj.CoreCompileInputs.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\TestBestellingBL.sourcelink.json
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\TestBestellingBL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\refint\TestBestellingBL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\SolutionUTbestelling\TestBestellingBL\obj\Debug\net9.0\TestBestellingBL.pdb

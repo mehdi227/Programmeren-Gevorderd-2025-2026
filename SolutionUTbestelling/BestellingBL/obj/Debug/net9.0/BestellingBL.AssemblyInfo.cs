@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BestellingBL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a23325ee4ac786489c96156b713db8d452b75e09")]
 [assembly: System.Reflection.AssemblyProductAttribute("BestellingBL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BestellingBL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
