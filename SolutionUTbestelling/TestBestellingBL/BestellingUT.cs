@@ -127,9 +127,9 @@ namespace TestBestellingBL {
             bestelling.VoegProductToe(producten[0], 5);
             bestelling.VoegProductToe(producten[2], 4);
 
-            //Assert.Throws<BestellingException>(()=>);
-            //Assert.Contains();
-            //Assert.Contains();
+            Assert.Throws<BestellingException>(() =>);
+            Assert.Contains();
+            Assert.Contains();
         }
         [Fact]
         public void Test_verwijderproduct_invalid_aantaltegroot() {
@@ -138,9 +138,9 @@ namespace TestBestellingBL {
             bestelling.VoegProductToe(producten[0], 5);
             bestelling.VoegProductToe(producten[2], 4);
 
-            //Assert.Throws<BestellingException>();
-            //Assert.Contains();
-            //Assert.Contains();
+            Assert.Throws<BestellingException>();
+            Assert.Contains();
+            Assert.Contains();
         }
     }
 }
