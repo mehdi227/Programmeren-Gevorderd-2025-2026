@@ -42,6 +42,7 @@ namespace TestBestellingBL {
             Assert.Equal(leverdatum, bestelling.LeverDatum);
         }
         [Theory]
+        [InlineData("2025-1-2")]
         [InlineData("2025-1-1")]
         public void Test_leverdatum_invalid(DateTime leverdatum) {
             DateTime now = new DateTime(2025, 1, 2);
