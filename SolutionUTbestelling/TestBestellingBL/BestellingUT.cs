@@ -55,7 +55,7 @@ namespace TestBestellingBL {
             Bestelling bestelling = new Bestelling(now);
             //deel1
             bestelling.VoegProductToe(producten[0], 1);
-            Assert.Equal((producten[0], 5), bestelling.Producten().First());
+            Assert.Equal((producten[0], 1), bestelling.Producten().First());
             Assert.Single(bestelling.Producten());
 
             //deel2
