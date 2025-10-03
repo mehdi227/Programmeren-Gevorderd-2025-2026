@@ -8,5 +8,20 @@ namespace TestOpdrachtBedrijvenBL
 {
     public class BedrijfUT
     {
+        [Theory]
+        [InlineData("")]
+        [InlineData("KBC")]
+        [InlineData(" KBC")]
+        [InlineData("KBC ")]
+        [InlineData(" KBC ")]
+        public void Test_BedrijfNaam_valid(string bedrijfsnaam)
+        {
+
+        }
+        [Fact]
+        public void Test_bedrijfNaam_invalid()
+        {
+
+        }
     }
 }

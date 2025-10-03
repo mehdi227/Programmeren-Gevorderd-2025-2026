@@ -1,4 +1,5 @@
 ﻿using OpdrachtBedrijven_CL.BL;
+using OpdrachtBedrijven_CL.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,7 @@ namespace OpdrachtBedrijven_CL.DL
     public class BestandLezer
     {
         public BestandLezer(string padNaarTeLezenBestand,string padNaarErrorLog) {
+            List<string> errors = new();
             try
             {
                 using (StreamWriter sw = new StreamWriter(padNaarErrorLog))
@@ -40,7 +42,14 @@ namespace OpdrachtBedrijven_CL.DL
                             string a_huisnummer = ss[12];
                             string p_email = ss[13];
                             //maak objecten met alle data
-                            Bedrijf bedrijf = new Bedrijf(b_naam, b_industrie, b_sector, b_hoofdkwartier, b_oprichtjaar, b_extraInfo);
+                            try
+                            {
+                                Bedrijf bedrijf = new Bedrijf(b_naam, b_industrie, b_sector, b_hoofdkwartier, b_oprichtjaar, b_extraInfo);
+                            }
+                            catch (BedrijfException ex)
+                            {
+                                errors.Add(ex.Message);
+                            }
                             Adres p_adres = new Adres(a_woonplaats,a_straatnaam,a_huisnummer,a_postcode);
                             Personeel personeel = new Personeel(p_id, p_voornaam, p_achternaam,p_email,p_Geboortedatum,p_adres);
                         }

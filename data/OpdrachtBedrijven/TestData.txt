@@ -1,2 +1,2 @@
-|Consumer services|Airlines|Antwerp|1992|Airline|737|Brunelle|Dekegel|2/01/1941 8:39:40|Sint-Pieters-Kapelle|1541|Stekensbergstraat|63|Brunelle.Dekegel@VLMAirlines.be
+|Consumer services|Airlines|Antwerp|1992|Airline|737|Brunelle|Dekegel|2/01/1941 8:39:40|Sint-Pieters-Kapelle|1541|Stekensbergstraat|63|Brunelle.DekegelVLMAirlines.be
 Groupe 

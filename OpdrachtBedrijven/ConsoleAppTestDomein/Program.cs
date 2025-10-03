@@ -12,7 +12,7 @@ namespace ConsoleAppTestDomein {
                 Console.WriteLine(ex.Message);
             }
 
-            BestandLezer bl = new BestandLezer("C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\data\\OpdrachtBedrijven\\TestData.txt", "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\data\\OpdrachtBedrijven\\ErrorLog.txt");
+            BestandLezer bl = new BestandLezer("D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\data\\OpdrachtBedrijven\\TestData.txt", "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\data\\OpdrachtBedrijven\\ErrorLog.txt");
         }
     }
 }
