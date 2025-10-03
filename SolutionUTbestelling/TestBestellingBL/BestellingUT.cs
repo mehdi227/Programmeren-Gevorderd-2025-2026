@@ -80,7 +80,7 @@ namespace TestBestellingBL {
 
             Assert.Throws<BestellingException>(() =>
             bestelling.VoegProductToe(producten[0], aantal));
-            Assert.Equal(2, bestelling.Producten().Count());
+            Assert.Equal(bestelling.Producten().Count(),2);
             Assert.Contains((producten[0], 5), bestelling.Producten());
             Assert.Contains((producten[2], 4), bestelling.Producten());
         }
