@@ -127,9 +127,9 @@ namespace TestBestellingBL {
             bestelling.VoegProductToe(producten[0], 5);
             bestelling.VoegProductToe(producten[2], 4);
 
-            Assert.Throws<BestellingException>(() =>);
-            Assert.Contains();
-            Assert.Contains();
+            Assert.Throws<BestellingException>(() => bestelling.VerwijderProduct(producten[1],1));
+            Assert.Contains((producten[0],5),bestelling.Producten());
+            Assert.Contains((producten[2],4), bestelling.Producten());
         }
         [Fact]
         public void Test_verwijderproduct_invalid_aantaltegroot() {
@@ -138,9 +138,10 @@ namespace TestBestellingBL {
             bestelling.VoegProductToe(producten[0], 5);
             bestelling.VoegProductToe(producten[2], 4);
 
-            Assert.Throws<BestellingException>();
-            Assert.Contains();
-            Assert.Contains();
+            Assert.Throws<BestellingException>(() => bestelling.VerwijderProduct(producten[0],6));
+            Assert.Throws<BestellingException>(() => bestelling.VerwijderProduct(producten[2],5));
+            Assert.Contains((producten[0],5), bestelling.Producten());
+            Assert.Contains((producten[2],4), bestelling.Producten());
         }
     }
 }
