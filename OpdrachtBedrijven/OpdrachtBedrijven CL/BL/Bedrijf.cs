@@ -58,7 +58,7 @@ namespace OpdrachtBedrijven_CL.BL
             get { return _oprichtjaar; }
             set
             {
-                if (DateTime.Now.Year < Convert.ToInt32(value)) _oprichtjaar = value;
+                if (DateTime.Now.Year > Convert.ToInt32(value)) _oprichtjaar = value;
                 else throw new BedrijfException("oprichtjaar mag niet in de toekomst liggen");
             }
         }

@@ -411,6 +411,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "OpdrachtBedrijven CL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/OpdrachtBedrijven CL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OpdrachtBedrijven CL.dll": {}
+        }
       }
     }
   },
@@ -932,11 +942,17 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "OpdrachtBedrijven CL/1.0.0": {
+      "type": "project",
+      "path": "../OpdrachtBedrijven CL/OpdrachtBedrijven CL.csproj",
+      "msbuildProject": "../OpdrachtBedrijven CL/OpdrachtBedrijven CL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
+      "OpdrachtBedrijven CL >= 1.0.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
       "xunit.runner.visualstudio >= 2.8.2"
@@ -973,7 +989,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj": {
+              "projectPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

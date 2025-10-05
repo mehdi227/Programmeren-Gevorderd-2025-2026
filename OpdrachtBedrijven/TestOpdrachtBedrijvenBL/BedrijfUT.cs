@@ -3,25 +3,93 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using OpdrachtBedrijven_CL;
+using OpdrachtBedrijven_CL.BL;
+using OpdrachtBedrijven_CL.Exceptions;
 
 namespace TestOpdrachtBedrijvenBL
 {
     public class BedrijfUT
     {
         [Theory]
-        [InlineData("")]
-        [InlineData("KBC")]
-        [InlineData(" KBC")]
-        [InlineData("KBC ")]
-        [InlineData(" KBC ")]
-        public void Test_BedrijfNaam_valid(string bedrijfsnaam)
+        [InlineData("VLM Airlines")]
+        [InlineData(" VLM Airlines")]
+        [InlineData("VLM Airlines ")]
+        [InlineData(" VLM Airlines ")]
+        public void Test_Naam_valid(string naam)
         {
-
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            bedrijf.Naam = naam;
+            Assert.Equal(naam, bedrijf.Naam);
         }
-        [Fact]
-        public void Test_bedrijfNaam_invalid()
+        [Theory]
+        [InlineData(null)]
+        [InlineData("")]
+        [InlineData(" ")]
+        public void Test_Naam_invalid(string bedrijfsnaam)
         {
-
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            Assert.Throws<BedrijfException>(() => bedrijf.Naam = bedrijfsnaam);
+        }
+        [Theory]
+        public void Test_industry_valid(string industry)
+        {
+            //TODO check if industry is valid
+        }
+        [Theory]
+        public void Test_industry_invalid(string industry)
+        {
+            //TODO check if industry is invalid
+        }
+        [Theory]
+        public void Test_sector_valid(string sector)
+        {
+            //TODO check if sector is valid
+        }
+        [Theory]
+        public void Test_sector_invalid(string sector)
+        {
+            //TODO check if sector is invalid
+        }
+        [Theory]
+        public void Test_hoofdkwartier_valid(string hoofdkwartier)
+        {
+            //TODO check if hoofdkwartier is valid
+        }
+        [Theory]
+        public void Test_hoofdkwartier_invalid(string hoofdkwartier)
+        {
+            //TODO check if hoofdkwartier is invalid
+        }
+        [Theory]
+        public void Test_oprichtjaar_valid(string oprichtjaar)
+        {
+            //TODO check if oprichtjaar is valid
+        }
+        [Theory]
+        public void Test_oprichtjaar_invalid(string oprichtjaar)
+        {
+            //TODO check if oprichtjaar is invalid
+        }
+        [Theory]
+        public void Test_hoofdkwartier_valid(string hoofdkwartier)
+        {
+            //TODO check if hoofdkwartier is valid
+        }
+        [Theory]
+        public void Test_hoofdkwartier_invalid(string hoofdkwartier)
+        {
+            //TODO check if hoofdkwartier is invalid
+        }
+        [Theory]
+        public void Test_extraInfo_valid(string extraInfo)
+        {
+            //TODO check if extraInfo is valid
+        }
+        [Theory]
+        public void Test_extraInfo_invalid(string extraInfo)
+        {
+            //TODO check if extraInfo is invalid
         }
     }
 }

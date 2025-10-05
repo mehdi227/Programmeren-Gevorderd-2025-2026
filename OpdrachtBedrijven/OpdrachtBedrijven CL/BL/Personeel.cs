@@ -61,7 +61,7 @@ namespace OpdrachtBedrijven_CL.BL{
             set
             {
                 //TODO controleer of personeel ouder is dan 18 jaar
-                if () _geboortedatum = value;
+                if (DateTime.Now.Year - value.Year >= 18) _geboortedatum = value;
                 else throw new BedrijfException("geboortedatum invalid");
             }
         }
