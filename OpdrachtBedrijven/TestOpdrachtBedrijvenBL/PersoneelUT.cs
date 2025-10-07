@@ -8,15 +8,55 @@ namespace TestOpdrachtBedrijvenBL
 {
     public class PersoneelUT
     {
-        [Theory]
-        public void Test_Id_valid(int id)
+        [Fact]
+        public void Test_id_valid()
         {
             //TODO check if id is valid
         }
-        [Theory]
-        public void Test_Id_invalid(int id)
+        [Fact]
+        public void Test_id_invalid()
         {
             //TODO check if id is invalid
+        }
+        [Fact]
+        public void Test_voornaam_valid()
+        {
+
+        }
+        [Fact]
+        public void Test_voornaam_valid()
+        {
+
+        }
+        [Fact]
+        public void Test_achternaam_valid()
+        {
+
+        }
+        [Fact]
+        public void Test_achternaam_invalid()
+        {
+
+        }
+        [Fact]
+        public void Test_geboortedatum_valid()
+        {
+
+        }
+        [Fact]
+        public void Test_geboortedatum_invalid()
+        {
+
+        }
+        [Fact]
+        public void Test_email_valid()
+        {
+
+        }
+        [Fact]
+        public void Test_email_invalid()
+        {
+
         }
     }
 }

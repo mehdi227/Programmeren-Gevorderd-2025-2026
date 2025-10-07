@@ -32,9 +32,16 @@ namespace TestOpdrachtBedrijvenBL
             Assert.Throws<BedrijfException>(() => bedrijf.Naam = bedrijfsnaam);
         }
         [Theory]
+        [InlineData("Consumer services")]
+        [InlineData(" Consumer services")]
+        [InlineData("Consumer services ")]
+        [InlineData(" Consumer services ")]
         public void Test_industry_valid(string industry)
         {
             //TODO check if industry is valid
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            bedrijf.Industry = industry;
+            Assert.Equal(industry,bedrijf.Industry);
         }
         [Theory]
         public void Test_industry_invalid(string industry)

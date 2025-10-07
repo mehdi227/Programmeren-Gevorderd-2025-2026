@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
               "ToolTip": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
               "RelativeToolTip": "TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAUwFsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAA8wCsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T13:30:25.414Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "OpdrachtBedrijven CL\\DL\\BestandLezer.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:38:42.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:38:42.184Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowDwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T06:47:54.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T06:47:54.608Z"
             },
             {
               "$type": "Document",
@@ -119,7 +117,7 @@
               "RelativeDocumentMoniker": "TestOpdrachtBedrijvenBL\\AdresUT.cs",
               "ToolTip": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\TestOpdrachtBedrijvenBL\\AdresUT.cs",
               "RelativeToolTip": "TestOpdrachtBedrijvenBL\\AdresUT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAywCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T12:59:20.578Z",
               "EditorCaption": ""
@@ -156,7 +154,7 @@
               "RelativeDocumentMoniker": "TestOpdrachtBedrijvenBL\\PersoneelUT.cs",
               "ToolTip": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\TestOpdrachtBedrijvenBL\\PersoneelUT.cs",
               "RelativeToolTip": "TestOpdrachtBedrijvenBL\\PersoneelUT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T13:28:48.695Z",
               "EditorCaption": ""
