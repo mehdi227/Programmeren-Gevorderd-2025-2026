@@ -44,6 +44,9 @@ namespace TestOpdrachtBedrijvenBL
             Assert.Equal(industry,bedrijf.Industry);
         }
         [Theory]
+        [InlineData(null)]
+        [InlineData("")]
+        [InlineData(" ")]
         public void Test_industry_invalid(string industry)
         {
             //TODO check if industry is invalid
@@ -51,6 +54,10 @@ namespace TestOpdrachtBedrijvenBL
             Assert.Throws<BedrijfException>(() => bedrijf.Industry = industry);
         }
         [Theory]
+        [InlineData("Airlines")]
+        [InlineData(" Airlines")]
+        [InlineData("Airlines ")]
+        [InlineData(" Airlines ")]
         public void Test_sector_valid(string sector)
         {
             //TODO check if sector is valid
@@ -59,11 +66,18 @@ namespace TestOpdrachtBedrijvenBL
             Assert.Equal(sector,bedrijf.Sector);
         }
         [Theory]
+        [InlineData(null)]
+        [InlineData("")]
+        [InlineData(" ")]
         public void Test_sector_invalid(string sector)
         {
             //TODO check if sector is invalid
         }
         [Theory]
+        [InlineData("Antwerp")]
+        [InlineData(" Antwerp")]
+        [InlineData("Antwerp ")]
+        [InlineData(" Antwerp ")]
         public void Test_hoofdkwartier_valid(string hoofdkwartier)
         {
             //TODO check if hoofdkwartier is valid
@@ -72,9 +86,14 @@ namespace TestOpdrachtBedrijvenBL
             Assert.Equal(hoofdkwartier, bedrijf.Sector);
         }
         [Theory]
+        [InlineData(null)]
+        [InlineData("")]
+        [InlineData(" ")]
         public void Test_hoofdkwartier_invalid(string hoofdkwartier)
         {
             //TODO check if hoofdkwartier is invalid
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", 1992, "Airline");
+            Assert.Throws<BedrijfException>(() => bedrijf.Hoofdkwartier = hoofdkwartier);
         }
         [Fact]
         public void Test_oprichtjaar_valid()
@@ -84,10 +103,12 @@ namespace TestOpdrachtBedrijvenBL
             bedrijf.Oprichtjaar = DateTime.Now.Year;
             Assert.Equal(bedrijf.Oprichtjaar,DateTime.Now.Year);
         }
-        [Theory]
-        public void Test_oprichtjaar_invalid(string oprichtjaar)
+        [Fact]
+        public void Test_oprichtjaar_invalid()
         {
             //TODO check if oprichtjaar is invalid
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", 1992, "Airline");
+            Assert.Throws<BedrijfException>(() => bedrijf.Oprichtjaar = DateTime.Now.Year + 1);
         }
         
         [Theory]

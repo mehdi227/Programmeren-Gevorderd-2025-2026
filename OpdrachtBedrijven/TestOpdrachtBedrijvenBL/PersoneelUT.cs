@@ -24,7 +24,7 @@ namespace TestOpdrachtBedrijvenBL
 
         }
         [Fact]
-        public void Test_voornaam_valid()
+        public void Test_voornaam_invalid()
         {
 
         }
