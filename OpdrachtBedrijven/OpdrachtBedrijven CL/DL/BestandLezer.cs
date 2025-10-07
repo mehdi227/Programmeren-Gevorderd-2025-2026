@@ -30,7 +30,7 @@ namespace OpdrachtBedrijven_CL.DL
                             string b_industrie = ss[1];
                             string b_sector = ss[2];
                             string b_hoofdkwartier = ss[3];
-                            string b_oprichtjaar = ss[4];
+                            int b_oprichtjaar = Convert.ToInt32(ss[4]);
                             string b_extraInfo = ss[5];
                             int p_id = int.Parse(ss[6]);
                             string p_voornaam = ss[7];

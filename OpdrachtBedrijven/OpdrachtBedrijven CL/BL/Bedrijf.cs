@@ -9,7 +9,7 @@ using OpdrachtBedrijven_CL.Exceptions;
 namespace OpdrachtBedrijven_CL.BL
 {
     public class Bedrijf {
-        public Bedrijf(string naam, string industry, string sector, string hoofdkwartier, string oprichtjaar, string extrainfo)
+        public Bedrijf(string naam, string industry, string sector, string hoofdkwartier, int oprichtjaar, string extrainfo)
         {
             Naam = naam;
             Industry = industry;
@@ -53,12 +53,12 @@ namespace OpdrachtBedrijven_CL.BL
                 else throw new BedrijfException("hoofdkwartier invalid");
             }
         }
-        private string _oprichtjaar;
-        public string Oprichtjaar {
+        private int _oprichtjaar;
+        public int Oprichtjaar {
             get { return _oprichtjaar; }
             set
             {
-                if (DateTime.Now.Year > Convert.ToInt32(value)) _oprichtjaar = value;
+                if (DateTime.Now.Year > value) _oprichtjaar = value;
                 else throw new BedrijfException("oprichtjaar mag niet in de toekomst liggen");
             }
         }

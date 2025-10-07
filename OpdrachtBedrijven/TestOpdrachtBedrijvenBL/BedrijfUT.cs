@@ -18,7 +18,7 @@ namespace TestOpdrachtBedrijvenBL
         [InlineData(" VLM Airlines ")]
         public void Test_Naam_valid(string naam)
         {
-            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", 1992, "Airline");
             bedrijf.Naam = naam;
             Assert.Equal(naam, bedrijf.Naam);
         }
@@ -28,7 +28,7 @@ namespace TestOpdrachtBedrijvenBL
         [InlineData(" ")]
         public void Test_Naam_invalid(string bedrijfsnaam)
         {
-            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", 1992, "Airline");
             Assert.Throws<BedrijfException>(() => bedrijf.Naam = bedrijfsnaam);
         }
         [Theory]
@@ -39,7 +39,7 @@ namespace TestOpdrachtBedrijvenBL
         public void Test_industry_valid(string industry)
         {
             //TODO check if industry is valid
-            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", 1992, "Airline");
             bedrijf.Industry = industry;
             Assert.Equal(industry,bedrijf.Industry);
         }
@@ -47,14 +47,14 @@ namespace TestOpdrachtBedrijvenBL
         public void Test_industry_invalid(string industry)
         {
             //TODO check if industry is invalid
-            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", 1992, "Airline");
             Assert.Throws<BedrijfException>(() => bedrijf.Industry = industry);
         }
         [Theory]
         public void Test_sector_valid(string sector)
         {
             //TODO check if sector is valid
-            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", 1992, "Airline");
             bedrijf.Sector = sector;
             Assert.Equal(sector,bedrijf.Sector);
         }
@@ -67,7 +67,7 @@ namespace TestOpdrachtBedrijvenBL
         public void Test_hoofdkwartier_valid(string hoofdkwartier)
         {
             //TODO check if hoofdkwartier is valid
-            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", 1992, "Airline");
             bedrijf.Hoofdkwartier = hoofdkwartier;
             Assert.Equal(hoofdkwartier, bedrijf.Sector);
         }
@@ -76,28 +76,20 @@ namespace TestOpdrachtBedrijvenBL
         {
             //TODO check if hoofdkwartier is invalid
         }
-        [Theory]
-        [InlineData(DateTime.Now.Year)]
-        [InlineData(DateTime.Now.Year-1)]
-        public void Test_oprichtjaar_valid(int oprichtjaar)
+        [Fact]
+        public void Test_oprichtjaar_valid()
         {
             //TODO check if oprichtjaar is valid
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", 1992, "Airline");
+            bedrijf.Oprichtjaar = DateTime.Now.Year;
+            Assert.Equal(bedrijf.Oprichtjaar,DateTime.Now.Year);
         }
         [Theory]
         public void Test_oprichtjaar_invalid(string oprichtjaar)
         {
             //TODO check if oprichtjaar is invalid
         }
-        [Theory]
-        public void Test_hoofdkwartier_valid(string hoofdkwartier)
-        {
-            //TODO check if hoofdkwartier is valid
-        }
-        [Theory]
-        public void Test_hoofdkwartier_invalid(string hoofdkwartier)
-        {
-            //TODO check if hoofdkwartier is invalid
-        }
+        
         [Theory]
         public void Test_extraInfo_valid(string extraInfo)
         {
