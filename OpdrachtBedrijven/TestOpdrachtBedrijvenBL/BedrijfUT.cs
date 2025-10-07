@@ -47,11 +47,16 @@ namespace TestOpdrachtBedrijvenBL
         public void Test_industry_invalid(string industry)
         {
             //TODO check if industry is invalid
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            Assert.Throws<BedrijfException>(() => bedrijf.Industry = industry);
         }
         [Theory]
         public void Test_sector_valid(string sector)
         {
             //TODO check if sector is valid
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            bedrijf.Sector = sector;
+            Assert.Equal(sector,bedrijf.Sector);
         }
         [Theory]
         public void Test_sector_invalid(string sector)
@@ -62,6 +67,9 @@ namespace TestOpdrachtBedrijvenBL
         public void Test_hoofdkwartier_valid(string hoofdkwartier)
         {
             //TODO check if hoofdkwartier is valid
+            Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", "1992", "Airline");
+            bedrijf.Hoofdkwartier = hoofdkwartier;
+            Assert.Equal(hoofdkwartier, bedrijf.Sector);
         }
         [Theory]
         public void Test_hoofdkwartier_invalid(string hoofdkwartier)
@@ -69,7 +77,9 @@ namespace TestOpdrachtBedrijvenBL
             //TODO check if hoofdkwartier is invalid
         }
         [Theory]
-        public void Test_oprichtjaar_valid(string oprichtjaar)
+        [InlineData(DateTime.Now.Year)]
+        [InlineData(DateTime.Now.Year-1)]
+        public void Test_oprichtjaar_valid(int oprichtjaar)
         {
             //TODO check if oprichtjaar is valid
         }

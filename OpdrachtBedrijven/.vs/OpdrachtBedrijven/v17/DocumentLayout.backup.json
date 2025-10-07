@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
               "ToolTip": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
               "RelativeToolTip": "TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA8wCsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwDEAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T13:30:25.414Z",
               "EditorCaption": ""
@@ -119,8 +119,7 @@
               "RelativeToolTip": "TestOpdrachtBedrijvenBL\\AdresUT.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAywCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T12:59:20.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T12:59:20.578Z"
             },
             {
               "$type": "Document",
@@ -156,8 +155,7 @@
               "RelativeToolTip": "TestOpdrachtBedrijvenBL\\PersoneelUT.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAAwAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T13:28:48.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T13:28:48.695Z"
             },
             {
               "$type": "Document",
