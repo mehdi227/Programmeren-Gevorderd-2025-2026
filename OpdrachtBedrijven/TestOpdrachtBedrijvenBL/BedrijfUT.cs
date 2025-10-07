@@ -83,7 +83,7 @@ namespace TestOpdrachtBedrijvenBL
             //TODO check if hoofdkwartier is valid
             Bedrijf bedrijf = new("VLM Airlines", "Consumer services", "Airlines", "Antwerp", 1992, "Airline");
             bedrijf.Hoofdkwartier = hoofdkwartier;
-            Assert.Equal(hoofdkwartier, bedrijf.Sector);
+            Assert.Equal(hoofdkwartier, bedrijf.Hoofdkwartier);
         }
         [Theory]
         [InlineData(null)]
@@ -111,13 +111,13 @@ namespace TestOpdrachtBedrijvenBL
             Assert.Throws<BedrijfException>(() => bedrijf.Oprichtjaar = DateTime.Now.Year + 1);
         }
         
-        [Theory]
-        public void Test_extraInfo_valid(string extraInfo)
+        [Fact]
+        public void Test_extraInfo_valid()
         {
             //TODO check if extraInfo is valid
         }
-        [Theory]
-        public void Test_extraInfo_invalid(string extraInfo)
+        [Fact]
+        public void Test_extraInfo_invalid()
         {
             //TODO check if extraInfo is invalid
         }

@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
               "ToolTip": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
               "RelativeToolTip": "TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwF8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwHkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T13:30:25.414Z",
               "EditorCaption": ""
@@ -131,8 +131,7 @@
               "RelativeToolTip": "TestOpdrachtBedrijvenBL\\PersoneelUT.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T13:28:48.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T13:28:48.695Z"
             },
             {
               "$type": "Document",
