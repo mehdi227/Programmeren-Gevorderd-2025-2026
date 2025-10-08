@@ -58,7 +58,7 @@ namespace TestOpdrachtBedrijvenBL
         [Fact]
         public void Test_achternaam_invalid()
         {
-            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-31-01"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
+            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-01-31"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
         }
         [Fact]
         public void Test_geboortedatum_valid()
