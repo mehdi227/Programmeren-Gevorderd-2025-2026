@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OpdrachtBedrijven_CL.BL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,13 +9,21 @@ namespace TestOpdrachtBedrijvenBL
 {
     public class PersoneelUT
     {
-        [Fact]
-        public void Test_id_valid()
+        [Theory]
+        [InlineData(1)]
+        [InlineData(5000)]
+        public void Test_id_valid(int id)
         {
             //TODO check if id is valid
+            Personeel personeel = new Personeel(1,"mehdi","zirar","zirarmehdi84@gmail.com",DateTime.Parse("2003-31-01"),new Adres("Gent","Antwerpsesteenweg","1/0304",9000));
+            personeel.Id = id;
+            Assert.Equal(id, personeel.Id);
         }
-        [Fact]
-        public void Test_id_invalid()
+        [Theory]
+        [InlineData(null)]
+        [InlineData(0)]
+        [InlineData(-5000)]
+        public void Test_id_invalid(int id)
         {
             //TODO check if id is invalid
         }
