@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{04132317-57B6-4325-99ED-8485BF5DD529}|TestOpdrachtBedrijvenBL\\TestOpdrachtBedrijvenBL.csproj|solutionrelative:testopdrachtbedrijvenbl\\personeelut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{04132317-57B6-4325-99ED-8485BF5DD529}|TestOpdrachtBedrijvenBL\\TestOpdrachtBedrijvenBL.csproj|d:\\hogent\\jaar1\\sem2\\pg1\\programmeren-gevorderd-2025-2026\\opdrachtbedrijven\\testopdrachtbedrijvenbl\\bedrijfut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04132317-57B6-4325-99ED-8485BF5DD529}|TestOpdrachtBedrijvenBL\\TestOpdrachtBedrijvenBL.csproj|solutionrelative:testopdrachtbedrijvenbl\\bedrijfut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B411134-6302-4CEB-82BD-779F536D50FA}|ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj|d:\\hogent\\jaar1\\sem2\\pg1\\programmeren-gevorderd-2025-2026\\opdrachtbedrijven\\consoleapptestdomein\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B411134-6302-4CEB-82BD-779F536D50FA}|ConsoleAppTestDomein\\ConsoleAppTestDomein.csproj|solutionrelative:consoleapptestdomein\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|solutionrelative:opdrachtbedrijven cl\\bl\\bedrijf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04132317-57B6-4325-99ED-8485BF5DD529}|TestOpdrachtBedrijvenBL\\TestOpdrachtBedrijvenBL.csproj|d:\\hogent\\jaar1\\sem2\\pg1\\programmeren-gevorderd-2025-2026\\opdrachtbedrijven\\testopdrachtbedrijvenbl\\bedrijfut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04132317-57B6-4325-99ED-8485BF5DD529}|TestOpdrachtBedrijvenBL\\TestOpdrachtBedrijvenBL.csproj|solutionrelative:testopdrachtbedrijvenbl\\bedrijfut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|d:\\hogent\\jaar1\\sem2\\pg1\\programmeren-gevorderd-2025-2026\\opdrachtbedrijven\\opdrachtbedrijven cl\\opdrachtbedrijven cl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{086D7DEB-5888-4B54-8353-D578B50B9EAB}|OpdrachtBedrijven CL\\OpdrachtBedrijven CL.csproj|solutionrelative:opdrachtbedrijven cl\\opdrachtbedrijven cl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,19 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Bedrijf.cs",
-              "DocumentMoniker": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
-              "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
-              "ToolTip": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
-              "RelativeToolTip": "OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T06:47:54.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AdresUT.cs",
               "DocumentMoniker": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\TestOpdrachtBedrijvenBL\\AdresUT.cs",
               "RelativeDocumentMoniker": "TestOpdrachtBedrijvenBL\\AdresUT.cs",
@@ -92,14 +80,14 @@
               "RelativeDocumentMoniker": "TestOpdrachtBedrijvenBL\\PersoneelUT.cs",
               "ToolTip": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\TestOpdrachtBedrijvenBL\\PersoneelUT.cs",
               "RelativeToolTip": "TestOpdrachtBedrijvenBL\\PersoneelUT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDIAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T13:28:48.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BestandLezer.cs",
               "DocumentMoniker": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\DL\\BestandLezer.cs",
               "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\DL\\BestandLezer.cs",
@@ -111,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Adres.cs",
               "DocumentMoniker": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Adres.cs",
               "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\BL\\Adres.cs",
@@ -123,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BestandBeheerder.cs",
               "DocumentMoniker": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\DL\\BestandBeheerder.cs",
               "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\DL\\BestandBeheerder.cs",
@@ -135,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Personeel.cs",
               "DocumentMoniker": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Personeel.cs",
               "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\BL\\Personeel.cs",
@@ -147,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BedrijfException.cs",
               "DocumentMoniker": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\Exceptions\\BedrijfException.cs",
               "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\Exceptions\\BedrijfException.cs",
@@ -159,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\ConsoleAppTestDomein\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppTestDomein\\Program.cs",
@@ -171,15 +159,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "BedrijfUT.cs",
               "DocumentMoniker": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
               "RelativeDocumentMoniker": "TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
               "ToolTip": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
               "RelativeToolTip": "TestOpdrachtBedrijvenBL\\BedrijfUT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T13:30:25.414Z"
+              "WhenOpened": "2025-10-03T13:30:25.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bedrijf.cs",
+              "DocumentMoniker": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
+              "RelativeDocumentMoniker": "OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
+              "ToolTip": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\OpdrachtBedrijven\\OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
+              "RelativeToolTip": "OpdrachtBedrijven CL\\BL\\Bedrijf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:47:54.608Z"
             },
             {
               "$type": "Document",

@@ -1,4 +1,5 @@
 ﻿using OpdrachtBedrijven_CL.BL;
+using OpdrachtBedrijven_CL.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,46 +27,58 @@ namespace TestOpdrachtBedrijvenBL
         public void Test_id_invalid(int id)
         {
             //TODO check if id is invalid
+            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-31-01"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
+            Assert.Throws<BedrijfException>(() => personeel.Id = id);
         }
-        [Fact]
-        public void Test_voornaam_valid()
+        [Theory]
+        [InlineData("mehdi")]
+        [InlineData(" mehdi")]
+        [InlineData("mehdi ")]
+        [InlineData(" mehdi ")]
+        public void Test_voornaam_valid(string voornaam)
         {
-
+            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-31-01"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
+            personeel.Voornaam = voornaam;
+            Assert.Equal(personeel.Voornaam,voornaam);
         }
-        [Fact]
-        public void Test_voornaam_invalid()
+        [Theory]
+        [InlineData(null)]
+        [InlineData("")]
+        [InlineData(" ")]
+        public void Test_voornaam_invalid(string voornaam)
         {
-
+            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-31-01"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
+            Assert.Throws<BedrijfException>(() => personeel.Voornaam = voornaam);
         }
         [Fact]
         public void Test_achternaam_valid()
         {
-
+            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-31-01"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
         }
         [Fact]
         public void Test_achternaam_invalid()
         {
-
+            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-31-01"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
         }
         [Fact]
         public void Test_geboortedatum_valid()
         {
-
+            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-31-01"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
         }
         [Fact]
         public void Test_geboortedatum_invalid()
         {
-
+            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-31-01"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
         }
         [Fact]
         public void Test_email_valid()
         {
-
+            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-31-01"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
         }
         [Fact]
         public void Test_email_invalid()
         {
-
+            Personeel personeel = new Personeel(1, "mehdi", "zirar", "zirarmehdi84@gmail.com", DateTime.Parse("2003-31-01"), new Adres("Gent", "Antwerpsesteenweg", "1/0304", 9000));
         }
     }
 }
