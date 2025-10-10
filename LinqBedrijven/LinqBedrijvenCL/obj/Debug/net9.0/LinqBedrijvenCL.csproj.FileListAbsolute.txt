@@ -1,0 +1,11 @@
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\bin\Debug\net9.0\LinqBedrijvenCL.deps.json
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\bin\Debug\net9.0\LinqBedrijvenCL.dll
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\bin\Debug\net9.0\LinqBedrijvenCL.pdb
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.AssemblyInfoInputs.cache
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.AssemblyInfo.cs
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.dll
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\refint\LinqBedrijvenCL.dll
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.pdb
+C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\ref\LinqBedrijvenCL.dll
