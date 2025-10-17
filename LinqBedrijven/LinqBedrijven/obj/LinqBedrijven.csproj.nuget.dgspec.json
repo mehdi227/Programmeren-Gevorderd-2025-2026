@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijven\\LinqBedrijven.csproj": {}
+    "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijven\\LinqBedrijven.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj": {
+    "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj",
+        "projectUniqueName": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj",
         "projectName": "LinqBedrijvenCL",
-        "projectPath": "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj",
+        "projectPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijvenCL\\obj\\",
+        "outputPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijvenCL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijven\\LinqBedrijven.csproj": {
+    "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijven\\LinqBedrijven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijven\\LinqBedrijven.csproj",
+        "projectUniqueName": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijven\\LinqBedrijven.csproj",
         "projectName": "LinqBedrijven",
-        "projectPath": "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijven\\LinqBedrijven.csproj",
+        "projectPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijven\\LinqBedrijven.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijven\\obj\\",
+        "outputPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijven\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj": {
-                "projectPath": "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj"
+              "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj": {
+                "projectPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj"
               }
             }
           }

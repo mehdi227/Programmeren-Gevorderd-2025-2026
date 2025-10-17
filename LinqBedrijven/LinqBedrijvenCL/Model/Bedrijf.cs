@@ -16,7 +16,7 @@ namespace LinqBedrijvenCL.Model
             Hoofdkwartier = hoofdkwartier;
             Oprichtjaar = oprichtjaar;
             Extrainfo = extrainfo;
-            Medewerkers = medewerkers;
+            Werknemers = medewerkers;
         }
 
         public string Naam { get; set; }
@@ -25,6 +25,6 @@ namespace LinqBedrijvenCL.Model
         public string Hoofdkwartier { get; set; }
         public int Oprichtjaar { get; set; }
         public string Extrainfo { get; set; }
-        public List<Persoon> Medewerkers { get; set; }
+        public List<Persoon> Werknemers { get; set; }
     }
 }

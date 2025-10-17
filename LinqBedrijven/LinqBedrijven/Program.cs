@@ -1,6 +1,7 @@
 ﻿using LinqBedrijvenCL;
 using LinqBedrijvenCL.Model;
 using System.Globalization;
+using System.Runtime.ConstrainedExecution;
 namespace LinqBedrijven
 {
     internal class Program
@@ -26,7 +27,7 @@ namespace LinqBedrijven
                         string hoofdkwartier = data[3];
                         int oprichtjaar = int.Parse(data[4]);
                         string extraInfo = data[5];
-                        Bedrijf bedrijf = new(naam, industrie, sector, hoofdkwartier, oprichtjaar,extraInfo, new List<Persoon>());
+                        Bedrijf bedrijf = new(naam, industrie, sector, hoofdkwartier, oprichtjaar, extraInfo, new List<Persoon>());
                         //Medewerker
                         int id = int.Parse(data[6]);
                         string voornaam = data[7];
@@ -39,7 +40,7 @@ namespace LinqBedrijven
                         string email = data[14];
                         Persoon medewerker = new(id, voornaam, achternaam, geboortedatum, woonplaats, postcode, straatnaam, huisnummer, email);
                         //Medewerker toevoegen aan bedrijf
-                        bedrijf.Medewerkers.Add(medewerker);
+                        bedrijf.Werknemers.Add(medewerker);
                         //Toevoegen aan dictionary
                         bedrijven.Add(bedrijf.Naam, bedrijf);
                     }
@@ -59,7 +60,7 @@ namespace LinqBedrijven
                         string email = data[14];
                         Persoon medewerker = new(id, voornaam, achternaam, geboortedatum, woonplaats, postcode, straatnaam, huisnummer, email);
                         //Medewerker toevoegen aan bedrijf
-                        bedrijf.Medewerkers.Add(medewerker);
+                        bedrijf.Werknemers.Add(medewerker);
                     }
                 }
                 //1. Lijst alle bedrijven op en sorteer ook op naam.
@@ -78,12 +79,47 @@ namespace LinqBedrijven
                 }
                 //3. Lijst de 10 grootste (volgens aantal werknemers) bedrijven op en het aantal werknemers.
                 Console.WriteLine("3. Lijst de 10 grootste (volgens aantal werknemers) bedrijven op en het aantal werknemers.");
-                var bedrijvenOrderedByAantalWerknemersLimit10 = bedrijven.OrderByDescending(b => b.Value.Medewerkers.Count()).Take(10);
+                var bedrijvenOrderedByAantalWerknemersLimit10 = bedrijven.OrderByDescending(b => b.Value.Werknemers.Count()).Take(10);
                 foreach (var item in bedrijvenOrderedByAantalWerknemersLimit10)
                 {
-                    Console.WriteLine(item.Value.Naam + " " + item.Value.Medewerkers.Count());
+                    Console.WriteLine(item.Value.Naam + " " + item.Value.Werknemers.Count());
                 }
+                //4. Lijst per gemeente het aantal werknemers op. 
+                Console.WriteLine("4. Lijst per gemeente het aantal werknemers op. ");
+                var werknemersPerGemeente = bedrijven.Values.SelectMany(b => b.Werknemers).GroupBy(w => w.Woonplaats).Select(g => (g.Key, g.Count()));
+                foreach (var item in werknemersPerGemeente)
+                {
+                    Console.WriteLine($"Gemeente: {item.Key}, Aantal Werknemers: {item.Key.Count()}");
+                }
+                //5. Geef de werknemers die wonen in een opgegeven gemeente.
+                Console.WriteLine("5. Geef de werknemers die wonen in een opgegeven gemeente.");
+                string input = Console.ReadLine();
+                var werknemersInOpgegevenGemeente = bedrijven.Values.SelectMany(b => b.Werknemers).Where(w => w.Woonplaats == input);
+                foreach (var item in werknemersInOpgegevenGemeente)
+                {
+                    Console.WriteLine($"Werknemer: {item.Voornaam}, Woonplaats: {item.Woonplaats}");
+                }
+                //6. Lijst de verschillende sectoren op en het aantal bedrijven per sector.
+                Console.WriteLine("6. Lijst de verschillende sectoren op en het aantal bedrijven per sector.");
+                var bedrijvenAantalPerSector = bedrijven.Values.GroupBy(b => b.Sector).Select(b => (b.Key, b.Count()));
+                foreach (var item in bedrijvenAantalPerSector)
+                {
+                    Console.WriteLine($"Sector: {item.Key}, Aantal Bedrijven: {item.Key.Count()}");
+                }
+                //7. Lijst per industrie de namen van de bedrijven die daartoe behoren.
+                Console.WriteLine("7. Lijst per industrie de namen van de bedrijven die daartoe behoren.");
+                var bedrijvenPerIndustrie = bedrijven.Values.GroupBy(b => b.Industrie).Select(g => (g.Key, g.Select(b => b.Naam))).ToList();
+                foreach (var bedrijf in bedrijvenPerIndustrie)
+                {
+                    Console.WriteLine($"Industrie: {bedrijf.Key}, ");
+                    Console.WriteLine($"Bedrijven:{string.Join(", ", bedrijf.Item2)}");
+                }
+                //8. Lijst werknemers op die dezelfde naam hebben.
+                Console.WriteLine("8. Lijst werknemers op die dezelfde naam hebben.");
+                var werkenemersMetZelfdeNaam = bedrijven.Values.SelectMany(b => b.Werknemers).GroupBy(w => w.Voornaam);
 
+                //9. Geef weer hoeveel werknemers er jonger zijn dan 25, tussen 25 en 50 zijn en 50+.
+                Console.WriteLine("9. Geef weer hoeveel werknemers er jonger zijn dan 25, tussen 25 en 50 zijn en 50+.");
             }
         }
     }

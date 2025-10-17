@@ -9,3 +9,15 @@ C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqB
 C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\refint\LinqBedrijvenCL.dll
 C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.pdb
 C:\Users\mehdi\source\repos\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\ref\LinqBedrijvenCL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\bin\Debug\net9.0\LinqBedrijvenCL.deps.json
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\bin\Debug\net9.0\LinqBedrijvenCL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\bin\Debug\net9.0\LinqBedrijvenCL.pdb
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.AssemblyInfoInputs.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.AssemblyInfo.cs
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.csproj.CoreCompileInputs.cache
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.sourcelink.json
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\refint\LinqBedrijvenCL.dll
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\LinqBedrijvenCL.pdb
+D:\HoGent\Jaar1\Sem2\PG1\Programmeren-Gevorderd-2025-2026\LinqBedrijven\LinqBedrijvenCL\obj\Debug\net9.0\ref\LinqBedrijvenCL.dll

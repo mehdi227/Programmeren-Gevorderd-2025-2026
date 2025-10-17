@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj",
+      "projectUniqueName": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj",
       "projectName": "LinqBedrijvenCL",
-      "projectPath": "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj",
+      "projectPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijvenCL\\LinqBedrijvenCL.csproj",
       "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehdi\\source\\repos\\LinqBedrijven\\LinqBedrijvenCL\\obj\\",
+      "outputPath": "D:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\LinqBedrijven\\LinqBedrijvenCL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
