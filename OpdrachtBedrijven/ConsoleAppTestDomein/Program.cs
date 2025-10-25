@@ -1,6 +1,7 @@
-﻿using OpdrachtBedrijven_CL.BL;
-using OpdrachtBedrijven_CL.DL;
-using OpdrachtBedrijven_CL.Exceptions;
+﻿using OpdrachtBedrijven_CL.Domein.BL;
+using OpdrachtBedrijven_CL.Domein.DL;
+using OpdrachtBedrijven_CL.Domein.Exceptions;
+
 namespace ConsoleAppTestDomein {
     internal class Program {
         static void Main(string[] args) {

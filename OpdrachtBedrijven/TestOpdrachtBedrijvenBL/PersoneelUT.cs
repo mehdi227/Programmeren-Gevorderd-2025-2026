@@ -1,5 +1,5 @@
-﻿using OpdrachtBedrijven_CL.BL;
-using OpdrachtBedrijven_CL.Exceptions;
+﻿using OpdrachtBedrijven_CL.Domein.BL;
+using OpdrachtBedrijven_CL.Domein.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;

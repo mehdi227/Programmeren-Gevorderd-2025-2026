@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Databeheerder\" />
-    <Folder Include="UL\" />
+    <Folder Include="Domein\Interfaces\" />
   </ItemGroup>
 
 </Project>

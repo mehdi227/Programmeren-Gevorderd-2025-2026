@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using OpdrachtBedrijven_CL;
-using OpdrachtBedrijven_CL.BL;
-using OpdrachtBedrijven_CL.Exceptions;
+using OpdrachtBedrijven_CL.Domein.BL;
+using OpdrachtBedrijven_CL.Domein.Exceptions;
 
 namespace TestOpdrachtBedrijvenBL
 {
