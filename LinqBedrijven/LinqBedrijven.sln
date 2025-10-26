@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqBedrijvenCL", "LinqBedrijvenCL\LinqBedrijvenCL.csproj", "{8A72F3B7-6923-43F8-A168-A706107233E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqBedrijven", "LinqBedrijven\LinqBedrijven.csproj", "{D092DC0D-F0AC-41C2-A0CD-A040B4644BDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqBedrijvenDL", "LinqBedrijvenDL\LinqBedrijvenDL.csproj", "{A98B43CF-511B-4BA4-84C9-64D3438B130C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D092DC0D-F0AC-41C2-A0CD-A040B4644BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D092DC0D-F0AC-41C2-A0CD-A040B4644BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D092DC0D-F0AC-41C2-A0CD-A040B4644BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98B43CF-511B-4BA4-84C9-64D3438B130C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98B43CF-511B-4BA4-84C9-64D3438B130C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98B43CF-511B-4BA4-84C9-64D3438B130C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98B43CF-511B-4BA4-84C9-64D3438B130C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

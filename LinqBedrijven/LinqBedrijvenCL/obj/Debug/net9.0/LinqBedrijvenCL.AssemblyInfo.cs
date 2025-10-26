@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinqBedrijvenCL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a68f601fcec0fe34aecf9cf968b1b6e2b0e9f923")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f468676fc087ba6e5702450e46e04dd0f15e59")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinqBedrijvenCL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinqBedrijvenCL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
