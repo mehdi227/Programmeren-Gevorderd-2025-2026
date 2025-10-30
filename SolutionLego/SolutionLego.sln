@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoBL", "LegoBL\LegoBL.csproj", "{5D4BCAA5-6027-457A-BA68-1452D3037A3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoDL_FileReader", "LegoDL_FileReader\LegoDL_FileReader.csproj", "{A66313A3-164F-4D21-8141-7A92F30D9B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoDL_Repository", "LegoDL_Repository\LegoDL_Repository.csproj", "{5D53B158-56C3-45EB-860C-2408EF08A518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoUI", "LegoUI\LegoUI.csproj", "{882A478F-3300-41A4-BEF8-AE52BD6F2C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoUT", "LegoUT\LegoUT.csproj", "{CDB6C4F8-AE5D-4DF4-B81C-2D0F316C4F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4BCAA5-6027-457A-BA68-1452D3037A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4BCAA5-6027-457A-BA68-1452D3037A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4BCAA5-6027-457A-BA68-1452D3037A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4BCAA5-6027-457A-BA68-1452D3037A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66313A3-164F-4D21-8141-7A92F30D9B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66313A3-164F-4D21-8141-7A92F30D9B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66313A3-164F-4D21-8141-7A92F30D9B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66313A3-164F-4D21-8141-7A92F30D9B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D53B158-56C3-45EB-860C-2408EF08A518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D53B158-56C3-45EB-860C-2408EF08A518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D53B158-56C3-45EB-860C-2408EF08A518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D53B158-56C3-45EB-860C-2408EF08A518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882A478F-3300-41A4-BEF8-AE52BD6F2C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882A478F-3300-41A4-BEF8-AE52BD6F2C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882A478F-3300-41A4-BEF8-AE52BD6F2C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882A478F-3300-41A4-BEF8-AE52BD6F2C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB6C4F8-AE5D-4DF4-B81C-2D0F316C4F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB6C4F8-AE5D-4DF4-B81C-2D0F316C4F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB6C4F8-AE5D-4DF4-B81C-2D0F316C4F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB6C4F8-AE5D-4DF4-B81C-2D0F316C4F72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {635B1336-A79A-4A9D-8D5C-310737345771}
+	EndGlobalSection
+EndGlobal
