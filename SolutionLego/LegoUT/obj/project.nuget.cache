@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JQYA8ykdsno=",
+  "dgSpecHash": "A7NP9atlBpY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoUT\\LegoUT.csproj",
+  "projectFilePath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoUT\\LegoUT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehdi\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\mehdi\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

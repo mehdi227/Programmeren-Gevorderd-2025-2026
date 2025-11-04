@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoUI\\LegoUI.csproj": {}
+    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoUI\\LegoUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoBL\\LegoBL.csproj": {
+    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoBL\\LegoBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoBL\\LegoBL.csproj",
+        "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoBL\\LegoBL.csproj",
         "projectName": "LegoBL",
-        "projectPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoBL\\LegoBL.csproj",
+        "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoBL\\LegoBL.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoBL\\obj\\",
+        "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoBL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,21 +65,17 @@
         }
       }
     },
-    "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_FileReader\\LegoDL_FileReader.csproj": {
+    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_FileReader\\LegoDL_FileReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_FileReader\\LegoDL_FileReader.csproj",
+        "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_FileReader\\LegoDL_FileReader.csproj",
         "projectName": "LegoDL_FileReader",
-        "projectPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_FileReader\\LegoDL_FileReader.csproj",
+        "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_FileReader\\LegoDL_FileReader.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_FileReader\\obj\\",
+        "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_FileReader\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,8 +89,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoBL\\LegoBL.csproj": {
-                "projectPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoBL\\LegoBL.csproj"
+              "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoBL\\LegoBL.csproj": {
+                "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoBL\\LegoBL.csproj"
               }
             }
           }
@@ -138,21 +130,17 @@
         }
       }
     },
-    "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_Repository\\LegoDL_Repository.csproj": {
+    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_Repository\\LegoDL_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_Repository\\LegoDL_Repository.csproj",
+        "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_Repository\\LegoDL_Repository.csproj",
         "projectName": "LegoDL_Repository",
-        "projectPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_Repository\\LegoDL_Repository.csproj",
+        "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_Repository\\LegoDL_Repository.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_Repository\\obj\\",
+        "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,8 +154,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoBL\\LegoBL.csproj": {
-                "projectPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoBL\\LegoBL.csproj"
+              "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoBL\\LegoBL.csproj": {
+                "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoBL\\LegoBL.csproj"
               }
             }
           }
@@ -207,21 +195,17 @@
         }
       }
     },
-    "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoUI\\LegoUI.csproj": {
+    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoUI\\LegoUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoUI\\LegoUI.csproj",
+        "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoUI\\LegoUI.csproj",
         "projectName": "LegoUI",
-        "projectPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoUI\\LegoUI.csproj",
+        "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoUI\\LegoUI.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoUI\\obj\\",
+        "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoUI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,14 +219,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoBL\\LegoBL.csproj": {
-                "projectPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoBL\\LegoBL.csproj"
+              "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoBL\\LegoBL.csproj": {
+                "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoBL\\LegoBL.csproj"
               },
-              "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_FileReader\\LegoDL_FileReader.csproj": {
-                "projectPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_FileReader\\LegoDL_FileReader.csproj"
+              "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_FileReader\\LegoDL_FileReader.csproj": {
+                "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_FileReader\\LegoDL_FileReader.csproj"
               },
-              "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_Repository\\LegoDL_Repository.csproj": {
-                "projectPath": "C:\\Users\\mehdi\\source\\repos\\SolutionLego\\LegoDL_Repository\\LegoDL_Repository.csproj"
+              "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_Repository\\LegoDL_Repository.csproj": {
+                "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionLego\\LegoDL_Repository\\LegoDL_Repository.csproj"
               }
             }
           }
