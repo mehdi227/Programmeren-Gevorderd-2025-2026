@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Provincies_BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Provincies_BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Provincies_BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Provincies_BL/1.0.0": {
+      "type": "project",
+      "path": "../Provincies_BL/Provincies_BL.csproj",
+      "msbuildProject": "../Provincies_BL/Provincies_BL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Provincies_BL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mehdi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionProvincies\\Provincies_UI_WPF\\Provincies_UI_WPF.csproj",
+      "projectName": "Provincies_UI_WPF",
+      "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionProvincies\\Provincies_UI_WPF\\Provincies_UI_WPF.csproj",
+      "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionProvincies\\Provincies_UI_WPF\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionProvincies\\Provincies_BL\\Provincies_BL.csproj": {
+              "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionProvincies\\Provincies_BL\\Provincies_BL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

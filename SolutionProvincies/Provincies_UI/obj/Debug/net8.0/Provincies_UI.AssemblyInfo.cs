@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Provincies_UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+980c0700d52e8c75c6f4e3002d22bfcd2d7b09ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+055a4733c694bb55accd793d4ba3430bb716263f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Provincies_UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Provincies_UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
