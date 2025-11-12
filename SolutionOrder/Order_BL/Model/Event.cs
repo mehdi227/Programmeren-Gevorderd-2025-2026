@@ -32,20 +32,15 @@ namespace Order_BL.Model
             get { return _date; }
             set { if (value < DateTime.Now) throw new Exception("Date is in the past"); _date = value; } 
         }
-        private decimal _price;
-        public decimal Price {
-            get { return _price; }
-            set { if (value == null) throw new Exception("price is NULL"); _price = value; }
-        }
-        private readonly List<Member> _attendees = new();
-
+        private Ticket _ticket;
+        public Ticket Ticket { get  { return _ticket; } }
         public Event(string name, string adres, DateTime date)
         {
             _name = name;
             _adres = adres;
             _date = date;
         }
-
+        private readonly List<Member> _attendees = new();
         public ReadOnlyCollection<Member> Attendees => _attendees.AsReadOnly();
         public void AddAttendee(Member member)
         {
