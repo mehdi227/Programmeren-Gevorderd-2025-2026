@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Order_DL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+642bc68588d59c6410a08c62d5f53947cc082321")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6507c25a8dbae343242abb92b37bddd2ffeddd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Order_DL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Order_DL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

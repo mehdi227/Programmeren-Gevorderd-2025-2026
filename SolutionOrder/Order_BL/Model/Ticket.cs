@@ -15,5 +15,6 @@ namespace Order_BL.Model
             get { return _price; }
             set { if (value == null) throw new Exception("price is NULL"); _price = value; }
         }
+        private Delivery _delivery;
     }
 }

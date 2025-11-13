@@ -46,5 +46,9 @@ namespace Order_BL.Model
         {
             _attendees.Add(member);
         }
+        public void RemoveAttendee(Member member)
+        {
+            _attendees.Remove(member);
+        }
     }
 }
