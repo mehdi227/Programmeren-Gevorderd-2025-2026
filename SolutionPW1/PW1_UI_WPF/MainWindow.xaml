@@ -1,0 +1,17 @@
+﻿<Window x:Class="PW1_UI_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PW1_UI_WPF"
+        mc:Ignorable="d"
+        Title="Hallo Wereld" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="NaamTextBox" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="John" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.495,0.606" TextChanged="TextBox_TextChanged" Height="20"/>
+        <Button Name="GroetButton" Content="Groet" HorizontalAlignment="Left" Margin="135,10,0,0" VerticalAlignment="Top" Click="GroetButton_Click"/>
+        <Label Name="BoodschapLabel" Content="Hallo wereld" HorizontalAlignment="Left" Margin="174,6,0,0" VerticalAlignment="Top" Height="28"/>
+        <RadioButton Name="NederlandsRadioButton" IsChecked="True" Content="Nederlands" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top"/>
+        <RadioButton Name="EngelsRadioButton" Content="Engels" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="HoofdLettersCheckbox" IsChecked="False" Content="Hoofdletters" HorizontalAlignment="Left" Margin="10,86,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
