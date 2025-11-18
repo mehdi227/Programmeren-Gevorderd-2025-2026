@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionOrder\\Order_UI\\Order_UI.csproj": {}
+    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionPW1\\PW1_BL\\PW1_BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionOrder\\Order_UI\\Order_UI.csproj": {
+    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionPW1\\PW1_BL\\PW1_BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionOrder\\Order_UI\\Order_UI.csproj",
-        "projectName": "Order_UI",
-        "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionOrder\\Order_UI\\Order_UI.csproj",
+        "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionPW1\\PW1_BL\\PW1_BL.csproj",
+        "projectName": "PW1_BL",
+        "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionPW1\\PW1_BL\\PW1_BL.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionOrder\\Order_UI\\obj\\",
+        "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionPW1\\PW1_BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",

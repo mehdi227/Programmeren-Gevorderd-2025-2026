@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\mehdi\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionOrder\\Order_UI_WPF\\Order_UI_WPF.csproj",
-      "projectName": "Order_UI_WPF",
-      "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionOrder\\Order_UI_WPF\\Order_UI_WPF.csproj",
+      "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionPW1\\PW1_BL\\PW1_BL.csproj",
+      "projectName": "PW1_BL",
+      "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionPW1\\PW1_BL\\PW1_BL.csproj",
       "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionOrder\\Order_UI_WPF\\obj\\",
+      "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionPW1\\PW1_BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0-windows"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -49,8 +49,8 @@
       "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net8.0-windows7.0": {
-        "targetAlias": "net8.0-windows",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -65,9 +65,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WPF": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
