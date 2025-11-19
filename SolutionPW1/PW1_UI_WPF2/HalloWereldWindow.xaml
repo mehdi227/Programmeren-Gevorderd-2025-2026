@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <TextBox Name="TextBoxBegroeting" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Jan" VerticalAlignment="Top" Width="64" Height="26"/>
+        <Button Content="Groet" HorizontalAlignment="Left" Margin="74,10,0,0" VerticalAlignment="Top" Height="26"/>
+        <Label Content="Hallo Jan" HorizontalAlignment="Left" Margin="113,10,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Nederlands" IsChecked="True" HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Engels" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="HoofdlettersCheckBox" Content="Hoofdletters" HorizontalAlignment="Left" Margin="10,87,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
