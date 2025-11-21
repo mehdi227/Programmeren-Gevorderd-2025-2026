@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Provincies_DL_Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+055a4733c694bb55accd793d4ba3430bb716263f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3715cced766d9843cfcd2d279d0a389362049c92")]
 [assembly: System.Reflection.AssemblyProductAttribute("Provincies_DL_Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Provincies_DL_Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

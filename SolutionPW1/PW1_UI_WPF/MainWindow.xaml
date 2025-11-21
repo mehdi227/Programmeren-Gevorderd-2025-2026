@@ -7,11 +7,7 @@
         mc:Ignorable="d"
         Title="Hallo Wereld" Height="450" Width="800">
     <Grid>
-        <TextBox Name="NaamTextBox" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="John" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.495,0.606" TextChanged="TextBox_TextChanged" Height="20"/>
-        <Button Name="GroetButton" Content="Groet" HorizontalAlignment="Left" Margin="135,10,0,0" VerticalAlignment="Top" Click="GroetButton_Click"/>
-        <Label Name="BoodschapLabel" Content="Hallo wereld" HorizontalAlignment="Left" Margin="174,6,0,0" VerticalAlignment="Top" Height="28"/>
-        <RadioButton Name="NederlandsRadioButton" IsChecked="True" Content="Nederlands" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top"/>
-        <RadioButton Name="EngelsRadioButton" Content="Engels" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top"/>
-        <CheckBox Name="HoofdLettersCheckbox" IsChecked="False" Content="Hoofdletters" HorizontalAlignment="Left" Margin="10,86,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="EmailTextBox" HorizontalAlignment="Center" TextWrapping="Wrap" Text="example@gmail.com" VerticalAlignment="Center" TextChanged="TextBox_TextChanged" Width="120"/>
+        <Button Name="LoginButton" Content="Groet" HorizontalAlignment="Center" Margin="0,231,0,0" VerticalAlignment="Top" Click="LoginButton_Click" Width="120"/>
     </Grid>
 </Window>

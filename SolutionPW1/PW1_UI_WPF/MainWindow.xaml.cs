@@ -26,13 +26,9 @@ namespace PW1_UI_WPF
 
         }
 
-        private void GroetButton_Click(object sender, RoutedEventArgs e)
+        private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
-            string begroeting = "Hallo ";
-            if (EngelsRadioButton.IsChecked == true) begroeting = "Hello ";
-            string boodschap = begroeting + NaamTextBox.Text;
-            if (HoofdLettersCheckbox.IsChecked == true) boodschap = boodschap.ToUpper();
-            BoodschapLabel.Content = boodschap;
+
         }
     }
 }

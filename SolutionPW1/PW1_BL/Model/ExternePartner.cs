@@ -12,6 +12,6 @@ namespace PW1_BL.Model
         public enum Type { Bedrijf, Organisatie, Burger }
         private List<Project> _projecten = new();
         public IReadOnlyList<Project> Projecten => _projecten.AsReadOnly();
-        public string RolOmschrijving { get; set; }
+        public List<string> RolOmschrijvingen { get; set; }
     }
 }

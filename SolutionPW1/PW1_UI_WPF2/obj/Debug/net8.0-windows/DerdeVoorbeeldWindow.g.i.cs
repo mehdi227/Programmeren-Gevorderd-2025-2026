@@ -77,7 +77,7 @@ namespace PW1_UI_WPF2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PW1_UI_WPF2;component/derdevoorbeeldwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PW1_UI_WPF2;V1.0.0.0;component/derdevoorbeeldwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\DerdeVoorbeeldWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
