@@ -21,14 +21,18 @@ namespace PW1_UI_WPF
             InitializeComponent();
         }
 
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        private void gebruikerLoginButton_Click(object sender, RoutedEventArgs e)
         {
-
+            GebruikerLoginWindow login = new();
+            login.Show();
+            this.Close();
         }
 
-        private void LoginButton_Click(object sender, RoutedEventArgs e)
+        private void beheerderLoginButton_Click(object sender, RoutedEventArgs e)
         {
-
+            BeheerderLoginWindow login = new();
+            login.Show();
+            this.Close();
         }
     }
 }

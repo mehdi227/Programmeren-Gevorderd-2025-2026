@@ -8,6 +8,7 @@ namespace PW1_BL.Model
 {
     public abstract class Project
     {
+        public int Id { get; set; }
         public string Titel { get; set; }
         public DateTime Startdatum { get; set; }
         public enum Status { planning, uitvoering, afgerond }

@@ -9,7 +9,7 @@ namespace PW1_BL.Model
     public class InnovatiefWonenProject
     {
         public int AantalWoonEenheden { get; set; }
-        public string Woonvormen { get; set; }
+        public string Woonvorm { get; set; }
         public bool Rondleiding { get; set; }
         public bool ShowWoning { get; set; }
         public int ArchitecturaleInnovatieScore { get; set; }

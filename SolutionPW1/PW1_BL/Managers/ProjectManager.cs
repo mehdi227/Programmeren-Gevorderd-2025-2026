@@ -32,6 +32,10 @@ namespace PW1_BL.Managers
         {
             _repo.GeefProjectenOpStatus(status);
         }
+        public List<Project> GeefProjectenOpWijk(Locatie locatie)
+        {
+            _repo.GeefProjectenOpWijk(locatie.Wijk);
+        }
     }
 }
 

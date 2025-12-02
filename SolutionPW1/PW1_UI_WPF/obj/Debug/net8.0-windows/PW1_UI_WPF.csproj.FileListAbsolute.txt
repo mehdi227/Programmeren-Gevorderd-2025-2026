@@ -19,3 +19,7 @@ C:\Users\mehdi\Hogent\Jaar1\Sem2\Programmeren-Gevorderd-2025-2026\SolutionPW1\PW
 C:\Users\mehdi\Hogent\Jaar1\Sem2\Programmeren-Gevorderd-2025-2026\SolutionPW1\PW1_UI_WPF\obj\Debug\net8.0-windows\PW1_UI_WPF.pdb
 C:\Users\mehdi\Hogent\Jaar1\Sem2\Programmeren-Gevorderd-2025-2026\SolutionPW1\PW1_UI_WPF\obj\Debug\net8.0-windows\PW1_UI_WPF.genruntimeconfig.cache
 C:\Users\mehdi\Hogent\Jaar1\Sem2\Programmeren-Gevorderd-2025-2026\SolutionPW1\PW1_UI_WPF\obj\Debug\net8.0-windows\ref\PW1_UI_WPF.dll
+C:\Users\mehdi\Hogent\Jaar1\Sem2\Programmeren-Gevorderd-2025-2026\SolutionPW1\PW1_UI_WPF\obj\Debug\net8.0-windows\BeheerderLoginWindow.g.cs
+C:\Users\mehdi\Hogent\Jaar1\Sem2\Programmeren-Gevorderd-2025-2026\SolutionPW1\PW1_UI_WPF\obj\Debug\net8.0-windows\GebruikerLoginWindow.g.cs
+C:\Users\mehdi\Hogent\Jaar1\Sem2\Programmeren-Gevorderd-2025-2026\SolutionPW1\PW1_UI_WPF\obj\Debug\net8.0-windows\BeheerderLoginWindow.baml
+C:\Users\mehdi\Hogent\Jaar1\Sem2\Programmeren-Gevorderd-2025-2026\SolutionPW1\PW1_UI_WPF\obj\Debug\net8.0-windows\GebruikerLoginWindow.baml

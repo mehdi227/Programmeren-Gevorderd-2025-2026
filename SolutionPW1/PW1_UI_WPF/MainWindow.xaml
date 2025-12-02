@@ -6,8 +6,10 @@
         xmlns:local="clr-namespace:PW1_UI_WPF"
         mc:Ignorable="d"
         Title="Hallo Wereld" Height="450" Width="800">
-    <Grid>
-        <TextBox Name="EmailTextBox" HorizontalAlignment="Center" TextWrapping="Wrap" Text="example@gmail.com" VerticalAlignment="Center" TextChanged="TextBox_TextChanged" Width="120"/>
-        <Button Name="LoginButton" Content="Groet" HorizontalAlignment="Center" Margin="0,231,0,0" VerticalAlignment="Top" Click="LoginButton_Click" Width="120"/>
+    <Grid Background="LightGray">
+        <Button Name="gebruikerLoginButton" Background="White" Content="Gebruiker" HorizontalAlignment="Center" VerticalAlignment="Top" Width="200" Height="50" Margin="0,345,0,0" Click="gebruikerLoginButton_Click"/>
+        <Button Name="beheerderLoginButton" Background="White" Content="Beheerder" HorizontalAlignment="Center" VerticalAlignment="Top" Width="200" Height="50" Margin="0,290,0,0" Click="beheerderLoginButton_Click"/>
+        <Label Content="Log in als een:" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" FontSize="20" Margin="0,230,0,0"/>
+
     </Grid>
 </Window>
