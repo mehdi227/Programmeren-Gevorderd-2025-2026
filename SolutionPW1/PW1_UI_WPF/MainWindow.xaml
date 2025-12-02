@@ -1,0 +1,15 @@
+﻿<Window x:Class="PW1_UI_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PW1_UI_WPF"
+        mc:Ignorable="d"
+        Title="Hallo Wereld" Height="450" Width="800">
+    <Grid Background="LightGray">
+        <Button Name="gebruikerLoginButton" Background="White" Content="Gebruiker" HorizontalAlignment="Center" VerticalAlignment="Top" Width="200" Height="50" Margin="0,345,0,0" Click="gebruikerLoginButton_Click"/>
+        <Button Name="beheerderLoginButton" Background="White" Content="Beheerder" HorizontalAlignment="Center" VerticalAlignment="Top" Width="200" Height="50" Margin="0,290,0,0" Click="beheerderLoginButton_Click"/>
+        <Label Content="Log in als een:" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" FontSize="20" Margin="0,230,0,0"/>
+
+    </Grid>
+</Window>

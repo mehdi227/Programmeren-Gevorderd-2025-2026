@@ -1,0 +1,17 @@
+﻿<Window x:Class="PW1_UI_WPF2.HalloWereldWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PW1_UI_WPF2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="TextBoxBegroeting" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Jan" VerticalAlignment="Top" Width="64" Height="26"/>
+        <Button Content="Groet" HorizontalAlignment="Left" Margin="74,10,0,0" VerticalAlignment="Top" Height="26"/>
+        <Label Content="Hallo Jan" HorizontalAlignment="Left" Margin="113,10,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Nederlands" IsChecked="True" HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Engels" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="HoofdlettersCheckBox" Content="Hoofdletters" HorizontalAlignment="Left" Margin="10,87,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
