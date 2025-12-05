@@ -2,5 +2,6 @@
 {
     internal class CustomerDataSetRepository
     {
+        private string connectionString;
     }
 }

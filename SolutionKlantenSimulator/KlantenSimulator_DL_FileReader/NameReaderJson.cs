@@ -5,6 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace KlantenSimulator_DL_FileReader {
-    internal class NameReaderJson {
+    public class NameReaderJson {
     }
 }

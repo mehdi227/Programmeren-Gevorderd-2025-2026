@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KlantenSimulator_BL.Interfaces {
-    public interface INameReaderTxt {
+namespace KlantenSimulator_BL.Interfaces
+{
+    public interface INameReaderCsv
+    {
         public List<MaleName> ReadFile_MaleNames(string path);
-        public List<FemaleName> ReadFile_FemaleNames(string path);
-        public List<LastName> ReadFile_LastNames(string path);
     }
 }

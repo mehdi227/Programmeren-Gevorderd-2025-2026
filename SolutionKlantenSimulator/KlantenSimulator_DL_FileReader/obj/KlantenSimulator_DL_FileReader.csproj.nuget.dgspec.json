@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_DL_FileReader\\KlantenSimulator_DL_FileReader.csproj": {}
+    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_DL_FileReader\\KlantenSimulator_DL_FileReader.csproj": {}
   },
   "projects": {
-    "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\KlantenSimulator_BL.csproj": {
+    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\KlantenSimulator_BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\KlantenSimulator_BL.csproj",
+        "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\KlantenSimulator_BL.csproj",
         "projectName": "KlantenSimulator_BL",
-        "projectPath": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\KlantenSimulator_BL.csproj",
+        "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\KlantenSimulator_BL.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\obj\\",
+        "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,21 +65,17 @@
         }
       }
     },
-    "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_DL_FileReader\\KlantenSimulator_DL_FileReader.csproj": {
+    "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_DL_FileReader\\KlantenSimulator_DL_FileReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_DL_FileReader\\KlantenSimulator_DL_FileReader.csproj",
+        "projectUniqueName": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_DL_FileReader\\KlantenSimulator_DL_FileReader.csproj",
         "projectName": "KlantenSimulator_DL_FileReader",
-        "projectPath": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_DL_FileReader\\KlantenSimulator_DL_FileReader.csproj",
+        "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_DL_FileReader\\KlantenSimulator_DL_FileReader.csproj",
         "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
-        "outputPath": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_DL_FileReader\\obj\\",
+        "outputPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_DL_FileReader\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,8 +89,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\KlantenSimulator_BL.csproj": {
-                "projectPath": "C:\\HoGent\\Jaar1\\Sem2\\PG1\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\KlantenSimulator_BL.csproj"
+              "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\KlantenSimulator_BL.csproj": {
+                "projectPath": "C:\\Users\\mehdi\\Hogent\\Jaar1\\Sem2\\Programmeren-Gevorderd-2025-2026\\SolutionKlantenSimulator\\KlantenSimulator_BL\\KlantenSimulator_BL.csproj"
               }
             }
           }
