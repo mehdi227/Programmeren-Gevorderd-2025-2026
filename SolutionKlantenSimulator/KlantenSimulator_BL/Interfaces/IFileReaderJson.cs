@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KlantenSimulator_BL.Interfaces {
-    public class IAdresReaderJson {
+namespace KlantenSimulator_BL.Interfaces
+{
+    public interface IFileReaderJson
+    {
     }
 }
